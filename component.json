@@ -10,7 +10,6 @@
   "scripts": [
     "index.js",
     "angular.js",
-    "mocks.js",
-    "scenario.js"
+    "mocks.js"
   ]
 }
