@@ -8,8 +8,6 @@
   "development": {},
   "license": "MIT",
   "scripts": [
-    "index.js",
-    "angular.js",
-    "mocks.js"
+    "index.js"
   ]
 }
